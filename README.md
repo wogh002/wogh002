@@ -7,4 +7,6 @@
 - 👯 I'm looking for a company that can grow into a developer.
 
 <br>
+![Jaeho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh002&theme=dark&show_icons=true)
+<br>
 Thank you ✔
